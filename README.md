@@ -1,0 +1,1 @@
+# kubeadmsetup2025
